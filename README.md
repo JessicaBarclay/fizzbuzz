@@ -1,10 +1,10 @@
 ## Fizzbuzz
 
-###A Program written in Ruby with Test Driven Development
+### A Program written in Ruby with Test Driven Development
 
 ![Alt text](https://github.com/JessicaBarclay/fizzbuzz/blob/master/public/fizzbuzz.jpg "fizzbuzz")
 
-### Fizzbuzz explained
+### How the program works...
 
 *Pass the program numbers 1 - 100, and it will return:*
 
