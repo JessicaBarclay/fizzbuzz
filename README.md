@@ -11,7 +11,7 @@
 
 ### How the program works...
 
-**Pass the program numbers 1 - 100 and it will return:**
+**_Pass the program numbers 1 - 100 and it will return:_**
 
   *'Fizz' if that number is divisible by 3*
 
