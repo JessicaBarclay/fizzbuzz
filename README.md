@@ -1,8 +1,6 @@
 # Fizzbuzz
 
----
-
-### A Program written in Ruby with Test Driven Development
+## A Program written in Ruby with Test Driven Development
 
 ---
 <p align="center">
@@ -13,7 +11,7 @@
 
 ### How the program works...
 
-*Pass the program numbers 1 - 100 and it will return:*
+**Pass the program numbers 1 - 100 and it will return:**
 
   *'Fizz' if that number is divisible by 3*
 
